@@ -18,15 +18,15 @@ parkingdesc:
 eventlocationurl: 
 
 officialwebsite: 
-registrationurl: 
-capacity: 300
+registrationurl: https://datadayedinburgh.eventbrite.com/
+capacity: 150
 googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.238679109365!2d-3.223680923287174!3d55.94523497315609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7a58b60ed03%3A0x9ffe7e31a4c979de!2sCOSLA%20Conference%20Centre!5e0!3m2!1sen!2sus!4v1780500247189!5m2!1sen!2sus"
 precons: false
 precondetail:
 
 scheduleurl: 
 scheduletimezone: British Summer Time UTC +1
-schedulehtml: 
+schedulehtml: <script type="text/javascript" src="https://sessionize.com/api/v2/fe5dplw1/view/GridSmart"></script>
 
 eventcountdown: false
 
