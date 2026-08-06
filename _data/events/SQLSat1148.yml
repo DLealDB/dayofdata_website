@@ -99,6 +99,11 @@ sponsors:
     image: /assets/img/logos/platinum/ArchitectNow.png
     width: 1000
     height: 500
+  - link: https://centricconsulting.com/technology-solutions/microsoft/
+    type: Gold
+    image: /assets/img/logos/silver/centric_logo_color_clear_silver.png
+    width: 800
+    height: 300
   - link: https://guyinacube.com/
     type: Bronze
     image: /assets/img/logos/bronze/guy_in_a_cube.png
@@ -106,7 +111,7 @@ sponsors:
     height: 200
   - link: https://covenanttechnologypartners.com/
     type: Bronze
-    image: /assets/img/logos/silver/Covenant_Tech_sol.png
+    image: /assets/img/logos/bronze/Covenant_Tech_sol.png
     width: 600
     height: 200
 
