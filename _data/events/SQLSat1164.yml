@@ -1,0 +1,69 @@
+name: "Day of Data Detroit 2026"
+primarytag: "Detroit"
+logo: 
+logocredit: 
+date: 2026-09-12 09:00:00 -0000
+virtual: false
+physical: true
+hybrid: false
+description: | 
+    <p>Day of Data Detroit 2026 will be a free, community-driven, in-person data and AI event serving Detroit, Southeast Michigan, and the broader Michigan technology community.</p>
+    <p>This inaugural event will intentionally start as a smaller community gathering, with an expected attendance of approximately 30–50 attendees, with the goal of establishing a sustainable Day of Data community in Detroit and growing the event over time.</p>
+    <p>The event will bring together data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members for technical learning, knowledge sharing, networking, and professional development.</p>
+    <p>Topics may include Microsoft Fabric, Power BI, SQL Server, Azure Data and AI, Databricks, data engineering, real-time analytics, business intelligence, data architecture, data governance, generative AI, AI agents, machine learning, and related data platform technologies.</p>
+    <p>We plan to have approximately 6–8 speakers/sessions in a single-track format for the first event and will invite both local and broader data community speakers.</p>
+
+eventlocation: |
+  Detroit, Michigan, USA
+
+eventlocationurl: 
+
+officialwebsite: 
+registrationurl: 
+capacity: `00
+googlemapurl: 
+
+scheduleurl: 
+scheduletimezone: Eastern Daylight Savings time UTC -5
+
+eventcountdown: true
+countdownscript: |
+    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 09:00">Countdown</a> 
+ 
+speakertext: The call for speakers will open soon.
+speakerlisturl: 
+callforspeakersurl: 
+callforspeakers:  
+callforspeakersenddate: 
+
+precons: false
+precondetail: 
+
+organizers:
+  - name: Mou Rakshit
+    twitter: 
+    email: mou.rakshit@avanade.com
+  - name: Mou Rakshit
+    twitter: 
+    email: mouraksh@umich.edu
+    
+volunteers:
+  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  volunteerurl:
+
+social:
+  twitter: 
+  youtube: 
+  linkedin: 
+  instagram: 
+  tiktok: 
+  pinterest: 
+  facebook: 
+  meetup: 
+
+sponsorscontacturl: 
+optInGlobalSponsor: 1
+sponsors:
+  
+
+sponsorplan:
