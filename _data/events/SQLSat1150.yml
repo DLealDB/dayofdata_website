@@ -120,7 +120,7 @@ sponsors:
     image: /assets/img/logos/devartlogo.png
   - link: https://queueassoc.com/
     type: Bronze Sponsor
-    image: assets/img/logos/bronze/QueueLogo_bronze.png
+    image: /assets/img/logos/bronze/QueueLogo_bronze.png
     width: 794
     height: 212
 
