@@ -8,7 +8,7 @@ physical: true
 hybrid: false
 description: |
     <p><strong>Day of Data Detroit 2026</strong> is a free, community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
-    <p>We are planning for approximately 100 attendees. Registration will be required because capacity is limited. The registration link will be posted as soon as it is available.</p>
+    <p>We are planning for approximately 100 attendees. Registration will be required because capacity is limited. Registration will be handled through Eventbrite, and the direct registration link will be posted here as soon as the Eventbrite event page is published.</p>
     <h3>Why Attend?</h3>
     <ul>
       <li>Learn practical techniques, patterns, and lessons from experienced community speakers and industry practitioners.</li>
@@ -63,8 +63,8 @@ organizers:
     url: https://www.linkedin.com/in/mourakshit/
 
 volunteers:
-  description: "Volunteers are very important to a successful event. Volunteer opportunities may include registration and check-in, room and session support, speaker coordination, sponsor support, setup and cleanup, and attendee assistance. Please contact Mou Rakshit at mouraksh@umich.edu if you would like to help."
-  volunteerurl:
+  description: "Volunteers are very important to a successful event. Volunteer opportunities may include registration and check-in, room and session support, speaker coordination, sponsor support, setup and cleanup, and attendee assistance. Use the volunteer link below or contact Mou Rakshit at mouraksh@umich.edu if you would like to help."
+  volunteerurl: https://dayofdata.org/michigan-data-ai-community/#volunteer-with-us
 
 social:
   twitter: 
