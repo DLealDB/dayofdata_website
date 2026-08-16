@@ -2,13 +2,14 @@ name: "Day of Data Detroit 2026"
 primarytag: "Detroit"
 logo: 
 logocredit: 
-date: 2026-09-12 09:00:00 -0000
+date: 2026-09-12 08:30:00 -0400
 virtual: false
 physical: true
 hybrid: false
 description: |
-    <p><strong>Day of Data Detroit 2026</strong> is a free, community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
-    <p>We are planning for approximately 100 attendees. Registration will be required because capacity is limited. Registration will be handled through Eventbrite, and the direct registration link will be posted here as soon as the Eventbrite event page is published.</p>
+    <p><strong>Day of Data Detroit 2026</strong> is a community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
+    <p><strong>Conference admission is free.</strong> Public registration will include a required <strong>$15 lunch package</strong> to help cover attendee lunch and event costs. Registration is required because capacity is limited to approximately 100 attendees. Registration will be handled through Eventbrite, and the direct registration link will be posted here as soon as the Eventbrite event page is published.</p>
+    <p><strong>Event hours:</strong> Saturday, September 12, 2026, 8:30 AM-5:00 PM EDT. Attendee check-in begins at 8:00 AM.</p>
     <h3>Why Attend?</h3>
     <ul>
       <li>Learn practical techniques, patterns, and lessons from experienced community speakers and industry practitioners.</li>
@@ -26,26 +27,26 @@ description: |
       <li><strong>AI and Generative AI:</strong> machine learning, AI agents, copilots, retrieval-augmented generation, responsible AI, and practical enterprise AI scenarios.</li>
       <li><strong>Architecture, Governance, and Professional Development:</strong> data architecture, quality, security, governance, certification, career growth, and community knowledge sharing.</li>
     </ul>
-    <p>Sessions will feature local and regional community speakers and industry practitioners. Venue, attendee registration, final speaker lineup, and schedule details will be added as they are finalized.</p>
+    <p>Sessions will feature local and regional community speakers and industry practitioners. Final attendee registration, speaker lineup, and detailed schedule information will be added as they are finalized.</p>
     <p><strong>Community website:</strong> Day of Data Detroit is part of the volunteer-led <a href="/michigan-data-ai-community/">Michigan Data &amp; AI Community</a>, supporting technical speaking, learning, mentoring, volunteering, and community conferences across Michigan.</p>
 
 eventlocation: |
-  Detroit, Michigan, USA<br/>
-  Final venue details will be posted as soon as the location is confirmed.
+  1240 Woodward Avenue<br/>
+  Detroit, MI 48226, USA
 
-eventlocationurl: 
+eventlocationurl: https://www.google.com/maps/search/?api=1&query=1240+Woodward+Avenue+Detroit+MI+48226
 
 officialwebsite: https://dayofdata.org/michigan-data-ai-community/
 registrationurl: 
 capacity: 100
-googlemapurl: 
+googlemapurl: https://www.google.com/maps/search/?api=1&query=1240+Woodward+Avenue+Detroit+MI+48226
 
 scheduleurl: 
 scheduletimezone: Eastern Daylight Time UTC -4
 
 eventcountdown: true
 countdownscript: |
-    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 09:00">Countdown</a>
+    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 08:30">Countdown</a>
 
 speakertext: We are currently building the speaker lineup and welcome local and regional data professionals, Microsoft MVPs, MCTs, community speakers, and industry practitioners. If you are interested in presenting a 45-60 minute session, please email Mou Rakshit at mouraksh@umich.edu. Speaker and community information is also available on the Michigan Data & AI Community page.
 speakerlisturl: 
@@ -82,7 +83,8 @@ sponsors:
 
 sponsorplan: |
   <h1><a name="sponsorship">Sponsorship Plan</a></h1>
-  <p>Sponsors are essential to Day of Data Detroit 2026. Sponsorship helps us keep attendance free while supporting technical education, networking, speaker support, attendee food and beverages, event materials, and community engagement for approximately 100 attendees across Detroit and Southeast Michigan.</p>
+  <p>Sponsors are essential to Day of Data Detroit 2026. Sponsorship supports technical education, networking, speaker support, attendee food and beverages, event materials, and community engagement for approximately 100 attendees across Detroit and Southeast Michigan.</p>
+  <p>Conference admission is free. Public attendee registration includes a required $15 lunch package to help cover attendee lunch and event costs.</p>
   <p>Organizations working with SQL Server, Azure SQL Database, SQL Server on Azure VMs, Microsoft Fabric, Power BI, Azure Data &amp; AI, Databricks, data engineering, analytics, AI, cloud, governance, security, developer tools, recruiting, and related technologies are especially encouraged to participate.</p>
   <h2>Sponsorship Levels</h2>
   <p>All sponsors will be recognized on the Day of Data Detroit event page and during the event. If you have an idea that does not fit one of the options below, please contact us. We are happy to discuss a community-friendly sponsorship or in-kind contribution.</p>
@@ -117,13 +119,12 @@ sponsorplan: |
       <tr><td>Recognition in selected event communications and social media</td><td>-</td><td>Yes</td><td>Yes</td></tr>
       <tr><td>More prominent logo and sponsor recognition</td><td>-</td><td>Yes</td><td>Yes</td></tr>
       <tr><td>Premier placement and opening/closing recognition</td><td>-</td><td>-</td><td>Yes</td></tr>
-      <tr><td>Opportunity for an exhibitor table, subject to final venue availability</td><td>-</td><td>-</td><td>Yes</td></tr>
+      <tr><td>Opportunity for an exhibitor table, subject to venue availability</td><td>-</td><td>-</td><td>Yes</td></tr>
     </tbody>
   </table>
   <h2>In-Kind and Community Sponsorship</h2>
   <p>We also welcome in-kind contributions. Examples include:</p>
   <ul>
-    <li><strong>Facility / Venue Support</strong> - donated meeting space suitable for approximately 100 attendees.</li>
     <li><strong>Lunch Sponsor</strong> - support for attendee lunch.</li>
     <li><strong>Coffee, Water, and Snack Sponsor</strong> - beverages and refreshments during the event.</li>
     <li><strong>Speaker Support</strong> - speaker dinner, speaker gifts, or other speaker-related expenses.</li>
