@@ -60,7 +60,7 @@ permalink: /michigan-data-ai-community/
   <p>Our goal is to create more opportunities for people to learn, present, mentor, volunteer, network, and organize high-quality technical events in Detroit, Southeast Michigan, and the broader Michigan technology community.</p>
   <div class="mi-buttons">
     <a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781">Register for Day of Data Detroit</a>
-    <a href="mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Speaking">Become a Speaker</a>
+    <a href="#speaker-submissions">Become a Speaker</a>
     <a href="#volunteer-with-us">Volunteer</a>
     <a href="mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Sponsor%20or%20Partner">Partner With Us</a>
   </div>
@@ -95,7 +95,7 @@ The community is technology-inclusive and focuses on practical data, analytics, 
 
 - SQL Server, Azure SQL, database administration, development, performance, modernization, high availability, and security
 - Microsoft Fabric, Power BI, Real-Time Intelligence, semantic models, analytics, and data engineering
-- Azure Data &amp; AI, cloud architecture, integration, streaming, and platform engineering
+- Azure Data & AI, cloud architecture, integration, streaming, and platform engineering
 - Databricks, lakehouse architecture, Unity Catalog, data engineering, machine learning, and AI
 - Generative AI, AI agents, copilots, retrieval-augmented generation, responsible AI, and enterprise AI
 - Data architecture, governance, quality, observability, security, DevOps, CI/CD, and automation
@@ -111,24 +111,34 @@ The community is technology-inclusive and focuses on practical data, analytics, 
 **Venue:** 1240 Woodward Avenue, Detroit, MI 48226  
 **Format:** In-person, community-driven technical conference  
 **Planned attendance:** Approximately 100 attendees  
-**Registration:** Open on Eventbrite
+**Registration:** Open on Eventbrite  
+**Lunch:** $15, required with public registration  
+**Parking:** Paid parking is available nearby; rates and availability vary
 
 **[Register for Day of Data Detroit 2026 on Eventbrite](https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781)**
 
-[View the official Day of Data Detroit 2026 event page](/2026-09-12-dayofdata1164/)
+[View the official Day of Data Detroit 2026 event page](/2026-09-12-dayofdata1164/)  
+[View the venue on Google Maps](https://www.google.com/maps/search/?api=1&query=1240+Woodward+Avenue+Detroit+MI+48226)  
+[Find and compare downtown parking with ParkDetroit](https://park.detroitmi.gov/)
 
 Conference admission is free. Public attendee registration includes a required **$15 lunch package** to help cover attendee lunch and event costs. Registration is required because capacity is limited.
 
+A nearby public parking option listed by Visit Detroit is the **Premier Underground Garage at 1206-8 Woodward Avenue**. Parking rates and availability can change, so attendees should follow posted signage and use ParkDetroit to compare garage, lot, and metered options before arriving.
+
+The final session schedule and speaker lineup will be published after speaker selection is complete. We are not publishing placeholder speakers or session times.
+
 Day of Data Detroit is being built for data professionals, developers, DBAs, architects, data engineers, BI professionals, AI/ML practitioners, analysts, students, consultants, managers, technology leaders, and anyone interested in modern data and AI platforms.
 
+<a id="speaker-submissions"></a>
 ### Interested in Speaking?
 
-We are building a strong local and regional speaker lineup and welcome experienced presenters as well as community members who want to grow as speakers. We are especially interested in speakers from Michigan, Ohio, Indiana, Illinois, and the broader Midwest.
+The **Day of Data Detroit 2026 Call for Speakers is open through August 31, 2026**. We welcome experienced presenters as well as community members who want to grow as speakers, with a strong interest in speakers from Michigan, Ohio, Indiana, Illinois, and the broader Midwest.
 
-Typical sessions will be approximately **45-60 minutes**. Topics can include SQL Server, Azure SQL, Microsoft Fabric, Power BI, Real-Time Intelligence, Databricks, Azure Data &amp; AI, data engineering, analytics, architecture, governance, GenAI, AI agents, machine learning, certification, career development, and related areas.
+Typical sessions will be approximately **45-60 minutes**. Topics can include SQL Server, Azure SQL, Microsoft Fabric, Power BI, Real-Time Intelligence, Databricks, Azure Data & AI, data engineering, analytics, architecture, governance, GenAI, AI agents, machine learning, certification, career development, and related areas.
 
-Email **[mouraksh@umich.edu](mailto:mouraksh@umich.edu?subject=Day%20of%20Data%20Detroit%202026%20-%20Speaker)** with your proposed topic, short bio, and availability.
+To submit a session, email **[mouraksh@umich.edu](mailto:mouraksh@umich.edu?subject=Day%20of%20Data%20Detroit%202026%20-%20Speaker%20Submission)** with your proposed session title, short abstract, short bio, and confirmation that you are available to present in person in Detroit on September 12, 2026.
 
+<a id="volunteer-with-us"></a>
 ## Volunteer With Us
 
 Community events depend on volunteers. Opportunities may include:
