@@ -60,8 +60,8 @@ permalink: /michigan-data-ai-community/
   <p>Our goal is to create more opportunities for people to learn, present, mentor, volunteer, network, and organize high-quality technical events in Detroit, Southeast Michigan, and the broader Michigan technology community.</p>
   <div class="mi-buttons">
     <a href="mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Speaking">Become a Speaker</a>
-    <a href="mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Volunteer">Volunteer</a>
-    <a href="mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Venue%20or%20Sponsor">Partner With Us</a>
+    <a href="#volunteer-with-us">Volunteer</a>
+    <a href="mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Sponsor%20or%20Partner">Partner With Us</a>
   </div>
 </div>
 
@@ -104,14 +104,17 @@ The community is technology-inclusive and focuses on practical data, analytics, 
 
 ### Day of Data Detroit 2026
 
-**Current date:** Saturday, September 12, 2026  
-**Location:** Detroit, Michigan, USA  
-**Format:** Free, in-person, community-driven technical event  
+**Date:** Saturday, September 12, 2026  
+**Event time:** 8:30 AM-5:00 PM EDT  
+**Check-in:** Begins at 8:00 AM  
+**Venue:** 1240 Woodward Avenue, Detroit, MI 48226  
+**Format:** In-person, community-driven technical conference  
 **Planned attendance:** Approximately 100 attendees  
-**Venue:** Final venue is being confirmed  
-**Registration:** Will open when venue and capacity details are finalized
+**Registration:** Eventbrite registration is being finalized
 
 [View the official Day of Data Detroit 2026 event page](/2026-09-12-dayofdata1164/)
+
+Conference admission is free. Public attendee registration includes a required **$15 lunch package** to help cover attendee lunch and event costs. The direct Eventbrite registration link will be added as soon as the event is published.
 
 Day of Data Detroit is being built for data professionals, developers, DBAs, architects, data engineers, BI professionals, AI/ML practitioners, analysts, students, consultants, managers, technology leaders, and anyone interested in modern data and AI platforms.
 
@@ -137,15 +140,15 @@ Community events depend on volunteers. Opportunities may include:
 - university and student outreach
 - attendee assistance and event-day logistics
 
-To volunteer, email **[mouraksh@umich.edu](mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Volunteer)**.
+To volunteer, email **[mouraksh@umich.edu](mailto:mouraksh@umich.edu?subject=Day%20of%20Data%20Detroit%202026%20-%20Volunteer)**.
 
-## Venue &amp; Community Partnerships
+## Community Partnerships
 
 We welcome partnerships with universities, colleges, libraries, nonprofit organizations, community centers, technology companies, employers, professional associations, and other organizations that can support community technical learning.
 
-For Day of Data Detroit, we are seeking donated or community-supported meeting space suitable for approximately 100 attendees, along with possible support for parking, A/V, Wi-Fi, food, beverages, printing, speaker support, and event logistics.
+For Day of Data Detroit, community partners can help with attendee food and beverages, A/V, Wi-Fi, parking support, printing, speaker support, giveaways, and other event logistics.
 
-If your organization can provide a venue or another in-kind contribution, email **[mouraksh@umich.edu](mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Venue%20Partnership)**.
+If your organization would like to help, email **[mouraksh@umich.edu](mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Partnership)**.
 
 ## Sponsor Day of Data Detroit 2026
 
@@ -171,7 +174,7 @@ Organizations working with data, databases, analytics, cloud, AI, security, deve
   </tbody>
 </table>
 
-We also welcome in-kind sponsorship for **venue/facility support, attendee lunch, coffee/water/snacks, speaker dinner or gifts, raffle prizes, printing, signage, badges, and event materials**.
+We also welcome in-kind sponsorship for **attendee lunch, coffee/water/snacks, speaker dinner or gifts, raffle prizes, printing, signage, badges, and event materials**.
 
 For Day of Data Detroit, nonprofit sponsorship processing can be coordinated through **SQL Saturday Corporation**, a U.S. 501(c)(3) nonprofit organization, when a sponsor requires a nonprofit invoice or sponsorship receipt.
 
@@ -181,7 +184,7 @@ Email **[mouraksh@umich.edu](mailto:mouraksh@umich.edu?subject=Day%20of%20Data%2
 
 Everyone interested in strengthening Michigan's data and AI community is welcome: working professionals, independent consultants, students, educators, recruiters, employers, vendors, Microsoft MVPs, Microsoft Certified Trainers, community organizers, first-time speakers, experienced speakers, and volunteers.
 
-You do not need to be a speaker or an expert to participate. Community members can attend, volunteer, mentor, help with outreach, suggest speakers, connect us with venues, or introduce potential sponsors and partners.
+You do not need to be a speaker or an expert to participate. Community members can attend, volunteer, mentor, help with outreach, suggest speakers, connect us with partners, or introduce potential sponsors.
 
 ## Community Principles
 
