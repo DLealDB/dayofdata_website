@@ -8,10 +8,9 @@ physical: true
 hybrid: false
 description: | 
     <p>Day of Data Detroit 2026 will be a free, community-driven, in-person data and AI event serving Detroit, Southeast Michigan, and the broader Michigan technology community.</p>
-    <p>This inaugural event will intentionally start as a smaller community gathering, with an expected attendance of approximately 30–50 attendees, with the goal of establishing a sustainable Day of Data community in Detroit and growing the event over time.</p>
-    <p>The event will bring together data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members for technical learning, knowledge sharing, networking, and professional development.</p>
-    <p>Topics may include Microsoft Fabric, Power BI, SQL Server, Azure Data and AI, Databricks, data engineering, real-time analytics, business intelligence, data architecture, data governance, generative AI, AI agents, machine learning, and related data platform technologies.</p>
-    <p>We plan to have approximately 6–8 speakers/sessions in a single-track format for the first event and will invite both local and broader data community speakers.</p>
+    <p>We are planning for approximately 100 attendees, bringing together data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members for technical learning, knowledge sharing, networking, and professional development.</p>
+    <p>Topics may include SQL Server, Azure SQL Database, Microsoft Fabric, Power BI, Azure Data and AI, Databricks, data engineering, real-time analytics, business intelligence, data architecture, data governance, generative AI, AI agents, machine learning, and related data platform technologies.</p>
+    <p>Sessions will feature local and regional community speakers and industry practitioners. Venue, attendee registration, speaker, and schedule details will be added as they are finalized.</p>
 
 eventlocation: |
   Detroit, Michigan, USA
@@ -24,16 +23,16 @@ capacity: 100
 googlemapurl: 
 
 scheduleurl: 
-scheduletimezone: Eastern Daylight Savings time UTC -5
+scheduletimezone: Eastern Daylight Time UTC -4
 
 eventcountdown: true
 countdownscript: |
     <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 09:00">Countdown</a> 
  
-speakertext: The call for speakers will open soon.
+speakertext: The call for speakers will open soon. We welcome data and AI speakers from Michigan and the broader regional community.
 speakerlisturl: 
 callforspeakersurl: 
-callforspeakers:  
+callforspeakers: false
 callforspeakersenddate: 
 
 precons: false
@@ -42,19 +41,17 @@ precondetail:
 organizers:
   - name: Mou Rakshit
     twitter: 
-    email: mou.rakshit@avanade.com
-  - name: Sponsorship Contact
-    twitter: 
     email: mouraksh@umich.edu
+    url: https://www.linkedin.com/in/mourakshit/
     
 volunteers:
-  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  description: "Volunteers are very important to a successful event. Please contact Mou Rakshit at mouraksh@umich.edu to volunteer."
   volunteerurl:
 
 social:
   twitter: 
   youtube: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/mourakshit/
   instagram: 
   tiktok: 
   pinterest: 
@@ -66,4 +63,18 @@ optInGlobalSponsor: 1
 sponsors:
   
 
-sponsorplan: <p>Please email <a href="mailto:mouraksh@umich.edu">Mou</a> for sponsorship opportunities.</p>
+sponsorplan: |
+  <h1><a name="sponsorship">Sponsorship Plan</a></h1>
+  <p>Sponsors are very important to Day of Data Detroit 2026. Sponsorship helps us keep attendance free and supports a community event for data professionals, developers, architects, analysts, AI practitioners, students, and technology leaders across Detroit and Southeast Michigan.</p>
+  <p>Organizations working with SQL Server, Azure SQL Database, SQL Server on Azure VMs, Microsoft Fabric, Power BI, Azure Data and AI, Databricks, data engineering, analytics, AI, and related technologies are especially encouraged to participate.</p>
+  <h2>Sponsorship Levels</h2>
+  <p>All sponsors will be recognized on the Day of Data Detroit event page and during the event. We are also happy to discuss in-kind sponsorships such as food, beverages, attendee giveaways, raffle prizes, speaker gifts, printing, or other event support.</p>
+  <ul>
+    <li><b>Community Sponsor ($250)</b> - Company logo on the event page, official sponsor recognition, verbal recognition during the event, and the opportunity to provide branded giveaways, raffle items, or recruiting materials.</li>
+    <li><b>Supporting Sponsor ($500)</b> - Includes Community Sponsor benefits plus more prominent sponsor recognition, recognition in selected event communications and social media, and the opportunity to provide recruiting or technology-community information for attendees.</li>
+    <li><b>Premier Sponsor ($1,000)</b> - Includes Supporting Sponsor benefits plus premier placement on the event page, prominent recognition during opening and closing announcements, and enhanced visibility to the Detroit and Southeast Michigan data community.</li>
+  </ul>
+  <h2>In-Kind Sponsorship</h2>
+  <p>We also welcome in-kind support for attendee lunch, water and snacks, speaker dinner, speaker gifts, event materials, printing, attendee giveaways, and raffle prizes.</p>
+  <p>If your organization requires a nonprofit invoice or sponsorship receipt, please contact the organizer so sponsorship processing through SQL Saturday Corporation can be coordinated.</p>
+  <p>For sponsorship opportunities, please email <a href="mailto:mouraksh@umich.edu">Mou Rakshit</a>.</p>
