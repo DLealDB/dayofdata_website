@@ -59,6 +59,7 @@ permalink: /michigan-data-ai-community/
   <p>The Michigan Data &amp; AI Community is a volunteer-led, community-first, not-for-profit initiative created to help data and AI professionals, students, speakers, technologists, employers, educators, user groups, and community partners connect across Michigan.</p>
   <p>Our goal is to create more opportunities for people to learn, present, mentor, volunteer, network, and organize high-quality technical events in Detroit, Southeast Michigan, and the broader Michigan technology community.</p>
   <div class="mi-buttons">
+    <a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781">Register for Day of Data Detroit</a>
     <a href="mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Speaking">Become a Speaker</a>
     <a href="#volunteer-with-us">Volunteer</a>
     <a href="mailto:mouraksh@umich.edu?subject=Michigan%20Data%20%26%20AI%20Community%20-%20Sponsor%20or%20Partner">Partner With Us</a>
@@ -110,11 +111,13 @@ The community is technology-inclusive and focuses on practical data, analytics, 
 **Venue:** 1240 Woodward Avenue, Detroit, MI 48226  
 **Format:** In-person, community-driven technical conference  
 **Planned attendance:** Approximately 100 attendees  
-**Registration:** Eventbrite registration is being finalized
+**Registration:** Open on Eventbrite
+
+**[Register for Day of Data Detroit 2026 on Eventbrite](https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781)**
 
 [View the official Day of Data Detroit 2026 event page](/2026-09-12-dayofdata1164/)
 
-Conference admission is free. Public attendee registration includes a required **$15 lunch package** to help cover attendee lunch and event costs. The direct Eventbrite registration link will be added as soon as the event is published.
+Conference admission is free. Public attendee registration includes a required **$15 lunch package** to help cover attendee lunch and event costs. Registration is required because capacity is limited.
 
 Day of Data Detroit is being built for data professionals, developers, DBAs, architects, data engineers, BI professionals, AI/ML practitioners, analysts, students, consultants, managers, technology leaders, and anyone interested in modern data and AI platforms.
 
