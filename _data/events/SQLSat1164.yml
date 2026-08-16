@@ -27,19 +27,22 @@ description: |
       <li><strong>AI and Generative AI:</strong> machine learning, AI agents, copilots, retrieval-augmented generation, responsible AI, and practical enterprise AI scenarios.</li>
       <li><strong>Architecture, Governance, and Professional Development:</strong> data architecture, quality, security, governance, certification, career growth, and community knowledge sharing.</li>
     </ul>
-    <p>Sessions will feature local and regional community speakers and industry practitioners. Final speaker lineup and detailed schedule information will be added as they are finalized.</p>
+    <p>Sessions will feature local and regional community speakers and industry practitioners. The final speaker lineup and detailed schedule will be published as they are finalized.</p>
     <p><strong>Community website:</strong> Day of Data Detroit is part of the volunteer-led <a href="/michigan-data-ai-community/">Michigan Data &amp; AI Community</a>, supporting technical speaking, learning, mentoring, volunteering, and community conferences across Michigan.</p>
 
 eventlocation: |
   1240 Woodward Avenue<br/>
   Detroit, MI 48226, USA
 
-eventlocationurl: https://www.google.com/maps/search/?api=1&query=1240+Woodward+Avenue+Detroit+MI+48226
+eventlocationurl: https://bedrockdetroit.com/property/hudsons-detroit/
 
 officialwebsite: https://dayofdata.org/michigan-data-ai-community/
 registrationurl: https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781
 capacity: 100
-googlemapurl: https://www.google.com/maps/search/?api=1&query=1240+Woodward+Avenue+Detroit+MI+48226
+googlemapurl: "https://www.google.com/maps?q=1240+Woodward+Avenue,+Detroit,+MI+48226&output=embed"
+parkingdesc: |
+  Paid parking is available in downtown Detroit near the venue. Rates and availability vary. A nearby public option listed by Visit Detroit is the Premier Underground Garage at 1206-8 Woodward Avenue. Attendees can also use <a href="https://park.detroitmi.gov/" target="_blank" rel="noopener noreferrer">ParkDetroit</a> to view and compare nearby garage, lot, and metered parking options. Please follow posted parking signs and restrictions.
+lunchcost: $15 (required with public registration)
 
 scheduleurl: 
 scheduletimezone: Eastern Daylight Time UTC -4
@@ -48,11 +51,11 @@ eventcountdown: true
 countdownscript: |
     <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 08:30">Countdown</a>
 
-speakertext: We are currently building the speaker lineup and welcome local and regional data professionals, Microsoft MVPs, MCTs, community speakers, and industry practitioners. If you are interested in presenting a 45-60 minute session, please email Mou Rakshit at mouraksh@umich.edu. Speaker and community information is also available on the Michigan Data & AI Community page.
+speakertext: We are accepting 45-60 minute session proposals from local and regional data professionals, Microsoft MVPs, MCTs, community speakers, and industry practitioners. Topics across SQL Server, Azure SQL, Microsoft Fabric, Power BI, Real-Time Intelligence, Azure Data & AI, Databricks, data engineering, analytics, architecture, governance, AI, and professional development are welcome.
 speakerlisturl: 
-callforspeakersurl: 
-callforspeakers: false
-callforspeakersenddate: 
+callforspeakersurl: https://dayofdata.org/michigan-data-ai-community/#speaker-submissions
+callforspeakers: true
+callforspeakersenddate: 31 Aug 2026
 
 precons: false
 precondetail: 
@@ -77,7 +80,7 @@ social:
   facebook: 
   meetup: 
 
-sponsorscontacturl: 
+sponsorscontacturl: mailto:mouraksh@umich.edu?subject=Day%20of%20Data%20Detroit%202026%20-%20Sponsorship
 optInGlobalSponsor: 1
 sponsors:
 
