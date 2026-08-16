@@ -8,7 +8,7 @@ physical: true
 hybrid: false
 description: |
     <p><strong>Day of Data Detroit 2026</strong> is a community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
-    <p><strong>Conference admission is free.</strong> Public registration will include a required <strong>$15 lunch package</strong> to help cover attendee lunch and event costs. Registration is required because capacity is limited to approximately 100 attendees. Registration will be handled through Eventbrite, and the direct registration link will be posted here as soon as the Eventbrite event page is published.</p>
+    <p><strong>Conference admission is free.</strong> Public registration includes a required <strong>$15 lunch package</strong> to help cover attendee lunch and event costs. Registration is required because capacity is limited to approximately 100 attendees. <strong><a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781">Register now on Eventbrite</a>.</strong></p>
     <p><strong>Event hours:</strong> Saturday, September 12, 2026, 8:30 AM-5:00 PM EDT. Attendee check-in begins at 8:00 AM.</p>
     <h3>Why Attend?</h3>
     <ul>
@@ -27,7 +27,7 @@ description: |
       <li><strong>AI and Generative AI:</strong> machine learning, AI agents, copilots, retrieval-augmented generation, responsible AI, and practical enterprise AI scenarios.</li>
       <li><strong>Architecture, Governance, and Professional Development:</strong> data architecture, quality, security, governance, certification, career growth, and community knowledge sharing.</li>
     </ul>
-    <p>Sessions will feature local and regional community speakers and industry practitioners. Final attendee registration, speaker lineup, and detailed schedule information will be added as they are finalized.</p>
+    <p>Sessions will feature local and regional community speakers and industry practitioners. Final speaker lineup and detailed schedule information will be added as they are finalized.</p>
     <p><strong>Community website:</strong> Day of Data Detroit is part of the volunteer-led <a href="/michigan-data-ai-community/">Michigan Data &amp; AI Community</a>, supporting technical speaking, learning, mentoring, volunteering, and community conferences across Michigan.</p>
 
 eventlocation: |
@@ -37,7 +37,7 @@ eventlocation: |
 eventlocationurl: https://www.google.com/maps/search/?api=1&query=1240+Woodward+Avenue+Detroit+MI+48226
 
 officialwebsite: https://dayofdata.org/michigan-data-ai-community/
-registrationurl: 
+registrationurl: https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781
 capacity: 100
 googlemapurl: https://www.google.com/maps/search/?api=1&query=1240+Woodward+Avenue+Detroit+MI+48226
 
