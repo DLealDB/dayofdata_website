@@ -8,7 +8,7 @@ physical: true
 hybrid: false
 description: |
     <p><strong>Day of Data Detroit 2026</strong> is a community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
-    <p><strong>Conference admission is free.</strong> Public registration includes a required <strong>$15 lunch package</strong> to help cover attendee lunch and event costs. Registration is required because capacity is limited to approximately 100 attendees. <strong><a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781">Register now on Eventbrite</a>.</strong></p>
+    <p><strong>Conference admission is completely free.</strong> Eventbrite offers a free admission ticket for attendees who do not want to purchase lunch. A separate optional <strong>$15 lunch ticket</strong> is available for attendees who would like the event-provided lunch. No attendee is required to purchase lunch in order to attend. Registration is required because capacity is limited to approximately 100 attendees. <strong><a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781">Register now on Eventbrite</a>.</strong></p>
     <p><strong>Event hours:</strong> Saturday, September 12, 2026, 8:30 AM-5:00 PM EDT. Attendee check-in begins at 8:00 AM.</p>
     <h3>Why Attend?</h3>
     <ul>
@@ -42,7 +42,7 @@ capacity: 100
 googlemapurl: "https://www.google.com/maps?q=1240+Woodward+Avenue,+Detroit,+MI+48226&output=embed"
 parkingdesc: |
   Paid parking is available in downtown Detroit near the venue. Rates and availability vary. A nearby public option listed by Visit Detroit is the Premier Underground Garage at 1206-8 Woodward Avenue. Attendees can also use <a href="https://park.detroitmi.gov/" target="_blank" rel="noopener noreferrer">ParkDetroit</a> to view and compare nearby garage, lot, and metered parking options. Please follow posted parking signs and restrictions.
-lunchcost: $15 (required with public registration)
+lunchcost: Optional $15 lunch ticket; free admission is available without lunch
 
 scheduleurl: 
 scheduletimezone: Eastern Daylight Time UTC -4
@@ -87,7 +87,7 @@ sponsors:
 sponsorplan: |
   <h1><a name="sponsorship">Sponsorship Plan</a></h1>
   <p>Sponsors are essential to Day of Data Detroit 2026. Sponsorship supports technical education, networking, speaker support, attendee food and beverages, event materials, and community engagement for approximately 100 attendees across Detroit and Southeast Michigan.</p>
-  <p>Conference admission is free. Public attendee registration includes a required $15 lunch package to help cover attendee lunch and event costs.</p>
+  <p>Conference admission is completely free. Attendees may register for free without purchasing lunch. A separate optional $15 lunch ticket is available for attendees who want the event-provided lunch.</p>
   <p>Organizations working with SQL Server, Azure SQL Database, SQL Server on Azure VMs, Microsoft Fabric, Power BI, Azure Data &amp; AI, Databricks, data engineering, analytics, AI, cloud, governance, security, developer tools, recruiting, and related technologies are especially encouraged to participate.</p>
   <h2>Sponsorship Levels</h2>
   <p>All sponsors will be recognized on the Day of Data Detroit event page and during the event. If you have an idea that does not fit one of the options below, please contact us. We are happy to discuss a community-friendly sponsorship or in-kind contribution.</p>
