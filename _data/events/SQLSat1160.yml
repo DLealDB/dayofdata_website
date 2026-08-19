@@ -60,7 +60,16 @@ social:
 sponsorscontacturl: 
 optInGlobalSponsor: 1
 sponsors:
- 
+  - link: https://www.centrilogic.com/
+    type: Platinum Sponsor
+    image: /assets/img/logos/Centrilogic.png
+    width: 980
+    height: 511
+  - link: https://www.pythian.com/
+    type: Bronze Sponsor
+    image: /assets/img/logos/bronze/pythian_logo_bronze.png
+    width: 389
+    height: 161
 
 sponsorplan:
     <h1><a name="sponsorship">Sponsorship Plan</a></h1>
