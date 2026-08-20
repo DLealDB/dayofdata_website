@@ -2,24 +2,24 @@ name: "Day of Data Detroit 2026"
 primarytag: "Detroit"
 logo: 
 logocredit: 
-date: 2026-09-12 08:30:00 -0400
+date: 2026-09-12 10:00:00 -0400
 virtual: false
 physical: true
 hybrid: false
 description: |
-    <p><strong>Day of Data Detroit 2026</strong> is a community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
-    <p><strong>Conference admission is completely free.</strong> Eventbrite offers a free admission ticket for attendees who do not want to purchase lunch. A separate optional <strong>$15 lunch ticket</strong> is available for attendees who would like the event-provided lunch. No attendee is required to purchase lunch in order to attend. Registration is required because capacity is limited to approximately 100 attendees. <strong><a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781">Register now on Eventbrite</a>.</strong></p>
-    <p><strong>Event hours:</strong> Saturday, September 12, 2026, 8:30 AM-5:00 PM EDT. Attendee check-in begins at 8:00 AM.</p>
+    <p><strong>Day of Data Detroit 2026</strong> is a free, community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
+    <p><strong>Conference admission is completely free.</strong> Eventbrite offers a free admission ticket. A separate optional <strong>$15 lunch ticket</strong> is available for attendees who would like the event-provided lunch. No attendee is required to purchase lunch in order to attend. <strong><a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781" target="_blank" rel="noopener noreferrer">Register free on Eventbrite</a>.</strong></p>
+    <p><strong>Event hours:</strong> Saturday, September 12, 2026, 10:00 AM-4:30 PM EDT. The event will use two meeting rooms at the Northville District Library, with a combined physical capacity of approximately 70 attendees.</p>
     <h3>Why Attend?</h3>
     <ul>
       <li>Learn practical techniques, patterns, and lessons from experienced community speakers and industry practitioners.</li>
-      <li>See technical sessions and demos focused on real-world data, analytics, database, cloud, and AI scenarios.</li>
+      <li>See technical sessions and demos focused on real-world data, analytics, database, cloud, streaming, and AI scenarios.</li>
       <li>Connect with fellow data professionals, speakers, students, technology leaders, sponsors, and local community members.</li>
       <li>Build your professional network and discover new ideas for career development, certification, architecture, engineering, analytics, and AI.</li>
     </ul>
     <h3>Who Should Attend?</h3>
     <p>Content is intended for a wide range of skill levels, from students and early-career professionals to experienced DBAs, developers, data engineers, BI professionals, architects, administrators, AI/ML practitioners, consultants, managers, and technology leaders.</p>
-    <h3>Topics We Are Building Around</h3>
+    <h3>Technical Focus</h3>
     <ul>
       <li><strong>SQL Server and Azure SQL:</strong> administration, performance, development, modernization, high availability, security, and cloud database services.</li>
       <li><strong>Microsoft Fabric and Power BI:</strong> data engineering, analytics, semantic models, Real-Time Intelligence, governance, and business intelligence.</li>
@@ -27,21 +27,22 @@ description: |
       <li><strong>AI and Generative AI:</strong> machine learning, AI agents, copilots, retrieval-augmented generation, responsible AI, and practical enterprise AI scenarios.</li>
       <li><strong>Architecture, Governance, and Professional Development:</strong> data architecture, quality, security, governance, certification, career growth, and community knowledge sharing.</li>
     </ul>
-    <p>Sessions will feature local and regional community speakers and industry practitioners. The final speaker lineup and detailed schedule will be published as they are finalized.</p>
-    <p><strong>Community website:</strong> Day of Data Detroit is part of the volunteer-led <a href="/michigan-data-ai-community/">Michigan Data &amp; AI Community</a>, supporting technical speaking, learning, mentoring, volunteering, and community conferences across Michigan.</p>
+    <p>Sessions will feature local and regional community speakers and industry practitioners. Up to two technical sessions can run in parallel.</p>
+    <p><strong>Speaker CFP:</strong> We are accepting 45-60 minute session proposals through September 12, 2026. <a href="https://sessionize.com/day-of-data-detroit-2026" target="_blank" rel="noopener noreferrer"><strong>Submit a session on Sessionize</strong></a>.</p>
 
 eventlocation: |
-  1240 Woodward Avenue<br/>
-  Detroit, MI 48226, USA
+  Northville District Library<br/>
+  212 W Cady St<br/>
+  Northville, MI 48167, USA
 
-eventlocationurl: https://bedrockdetroit.com/property/hudsons-detroit/
+eventlocationurl: https://northvillelibrary.org/?page_id=21083
 
-officialwebsite: https://dayofdata.org/michigan-data-ai-community/
+officialwebsite: 
 registrationurl: https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781
-capacity: 100
-googlemapurl: "https://www.google.com/maps?q=1240+Woodward+Avenue,+Detroit,+MI+48226&output=embed"
+capacity: 70
+googlemapurl: "https://www.google.com/maps?q=212+W+Cady+St,+Northville,+MI+48167&output=embed"
 parkingdesc: |
-  Paid parking is available in downtown Detroit near the venue. Rates and availability vary. A nearby public option listed by Visit Detroit is the Premier Underground Garage at 1206-8 Woodward Avenue. Attendees can also use <a href="https://park.detroitmi.gov/" target="_blank" rel="noopener noreferrer">ParkDetroit</a> to view and compare nearby garage, lot, and metered parking options. Please follow posted parking signs and restrictions.
+  Free parking is available at the Northville District Library. Additional nearby public parking is available in downtown Northville. Please follow posted signs and time limits.
 lunchcost: Optional $15 lunch ticket; free admission is available without lunch
 
 scheduleurl: 
@@ -49,13 +50,13 @@ scheduletimezone: Eastern Daylight Time UTC -4
 
 eventcountdown: true
 countdownscript: |
-    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 08:30">Countdown</a>
+    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 10:00">Countdown</a>
 
-speakertext: We are accepting 45-60 minute session proposals from local and regional data professionals, Microsoft MVPs, MCTs, community speakers, and industry practitioners. Topics across SQL Server, Azure SQL, Microsoft Fabric, Power BI, Real-Time Intelligence, Azure Data & AI, Databricks, data engineering, analytics, architecture, governance, AI, and professional development are welcome.
+speakertext: We are accepting 45-60 minute session proposals through September 12, 2026 from local and regional data professionals, Microsoft MVPs, MCTs, community speakers, and industry practitioners. Topics across SQL Server, Azure SQL, Microsoft Fabric, Power BI, Real-Time Intelligence, Azure Data & AI, Databricks, data engineering, streaming, analytics, architecture, governance, AI, and professional development are welcome. The audience will include students and early-career professionals as well as experienced industry practitioners, and the venue supports two concurrent technical tracks.
 speakerlisturl: 
-callforspeakersurl: https://dayofdata.org/michigan-data-ai-community/#speaker-submissions
+callforspeakersurl: https://sessionize.com/day-of-data-detroit-2026
 callforspeakers: true
-callforspeakersenddate: 31 Aug 2026
+callforspeakersenddate: 12 Sep 2026
 
 precons: false
 precondetail: 
@@ -67,8 +68,8 @@ organizers:
     url: https://www.linkedin.com/in/mourakshit/
 
 volunteers:
-  description: "Volunteers are very important to a successful event. Volunteer opportunities may include registration and check-in, room and session support, speaker coordination, sponsor support, setup and cleanup, and attendee assistance. Use the volunteer link below or contact Mou Rakshit at mouraksh@umich.edu if you would like to help."
-  volunteerurl: https://dayofdata.org/michigan-data-ai-community/#volunteer-with-us
+  description: "Volunteers are very important to a successful event. Volunteer opportunities may include registration and check-in, room and session support, speaker coordination, sponsor support, setup and cleanup, and attendee assistance. Contact Mou Rakshit at mouraksh@umich.edu if you would like to help."
+  volunteerurl: 
 
 social:
   twitter: 
@@ -83,14 +84,19 @@ social:
 sponsorscontacturl: mailto:mouraksh@umich.edu?subject=Day%20of%20Data%20Detroit%202026%20-%20Sponsorship
 optInGlobalSponsor: 1
 sponsors:
+  - link: https://neo4j.com/
+    type: Community
+    image: https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg
+    width: 400
 
 sponsorplan: |
   <h1><a name="sponsorship">Sponsorship Plan</a></h1>
-  <p>Sponsors are essential to Day of Data Detroit 2026. Sponsorship supports technical education, networking, speaker support, attendee food and beverages, event materials, and community engagement for approximately 100 attendees across Detroit and Southeast Michigan.</p>
-  <p>Conference admission is completely free. Attendees may register for free without purchasing lunch. A separate optional $15 lunch ticket is available for attendees who want the event-provided lunch.</p>
-  <p>Organizations working with SQL Server, Azure SQL Database, SQL Server on Azure VMs, Microsoft Fabric, Power BI, Azure Data &amp; AI, Databricks, data engineering, analytics, AI, cloud, governance, security, developer tools, recruiting, and related technologies are especially encouraged to participate.</p>
+  <p><strong>Confirmed Community Sponsor: Neo4j - $250.</strong></p>
+  <p>Sponsors help support free technical education, speaker support, attendee food and beverages, event materials, and community engagement for Day of Data Detroit 2026.</p>
+  <p>Conference admission is completely free. A separate optional $15 lunch ticket is available for attendees who want the event-provided lunch.</p>
+  <p>Organizations working with SQL Server, Azure SQL, Microsoft Fabric, Power BI, Azure Data &amp; AI, Databricks, streaming, data engineering, analytics, AI, cloud, governance, security, developer tools, recruiting, and related technologies are especially encouraged to participate.</p>
   <h2>Sponsorship Levels</h2>
-  <p>All sponsors will be recognized on the Day of Data Detroit event page and during the event. If you have an idea that does not fit one of the options below, please contact us. We are happy to discuss a community-friendly sponsorship or in-kind contribution.</p>
+  <p>All sponsors will be recognized on the Day of Data Detroit event page and during the event. We also welcome useful in-kind contributions such as food support, gift cards, raffle items, software, training, or speaker support.</p>
   <style>
     table.detroit-sponsor {
       border-spacing: 0;
@@ -110,31 +116,28 @@ sponsorplan: |
     <thead>
       <tr>
         <th>Benefit</th>
-        <th>Community<br/>$250</th>
+        <th>Community Supporter<br/>$100</th>
+        <th>Community Sponsor<br/>$250</th>
         <th>Supporting<br/>$500</th>
         <th>Premier<br/>$1,000</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td>Company logo on event page</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>Official sponsor recognition during the event</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>Provide branded giveaways, raffle items, or recruiting materials</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>Recognition in selected event communications and social media</td><td>-</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>More prominent logo and sponsor recognition</td><td>-</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>Premier placement and opening/closing recognition</td><td>-</td><td>-</td><td>Yes</td></tr>
-      <tr><td>Opportunity for an exhibitor table, subject to venue availability</td><td>-</td><td>-</td><td>Yes</td></tr>
+      <tr><td>Company name/logo on event page</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>Official sponsor recognition during the event</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>Provide branded giveaways, raffle items, or recruiting materials</td><td>-</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>Recognition in selected event communications and social media</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>More prominent logo and sponsor recognition</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>Premier placement and opening/closing recognition</td><td>-</td><td>-</td><td>-</td><td>Yes</td></tr>
     </tbody>
   </table>
-  <h2>In-Kind and Community Sponsorship</h2>
-  <p>We also welcome in-kind contributions. Examples include:</p>
+  <h2>In-Kind Sponsorship</h2>
   <ul>
-    <li><strong>Lunch Sponsor</strong> - support for attendee lunch.</li>
-    <li><strong>Coffee, Water, and Snack Sponsor</strong> - beverages and refreshments during the event.</li>
-    <li><strong>Speaker Support</strong> - speaker dinner, speaker gifts, or other speaker-related expenses.</li>
-    <li><strong>Raffle / Giveaway Sponsor</strong> - books, software, training, gift cards, or other attendee prizes.</li>
-    <li><strong>Event Materials Sponsor</strong> - printing, signage, badges, supplies, or attendee materials.</li>
+    <li><strong>Lunch / Food Support</strong> - attendee lunch, catering credit, restaurant or grocery gift cards.</li>
+    <li><strong>Coffee, Water, and Snacks</strong> - beverages and refreshments.</li>
+    <li><strong>Speaker Support</strong> - speaker gifts or other speaker-related expenses.</li>
+    <li><strong>Raffle / Giveaway Support</strong> - books, software, training, gift cards, or attendee prizes.</li>
   </ul>
-  <p>Recognition for in-kind sponsors can be tailored to the type and value of the contribution.</p>
   <h2>Nonprofit Sponsorship Processing</h2>
-  <p>SQL Saturday Corporation is a U.S. 501(c)(3) nonprofit organization. If your organization requires a nonprofit invoice or sponsorship receipt, please contact the organizer so sponsorship processing through SQL Saturday Corporation can be coordinated.</p>
+  <p>SQL Saturday Corporation is a U.S. 501(c)(3) nonprofit organization. If your organization requires a nonprofit invoice or sponsorship receipt, contact the organizer so sponsorship processing through SQL Saturday Corporation can be coordinated.</p>
   <p>For sponsorship opportunities, please email <a href="mailto:mouraksh@umich.edu">Mou Rakshit</a>.</p>
