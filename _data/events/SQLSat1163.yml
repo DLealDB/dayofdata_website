@@ -30,11 +30,11 @@ eventcountdown: true
 countdownscript: |
     <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-10-10 08:00">Countdown</a> 
  
-speakertext: The call for speakers will ends on Sep 21, 2026.
+speakertext: The call for speakers ends on Aug 28, 2026.
 speakerlisturl: 
-callforspeakersurl: 
+callforspeakersurl: https://sessionize.com/sqlsaturday-pittsburgh-2026/
 callforspeakers:  true
-callforspeakersenddate: 2026-09-21
+callforspeakersenddate: Aug 28, 2026
 
 precons: false
 precondetail: 
@@ -56,7 +56,7 @@ organizers:
 
 volunteers:
   description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
-  volunteerurl:
+  volunteerurl: https://forms.gle/8j3F1xGFD5Ui8ZkQ9
 
 social:
   twitter: pittsburghsql
