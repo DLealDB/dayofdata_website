@@ -7,6 +7,12 @@ virtual: false
 physical: true
 hybrid: false
 description: |
+    <style>
+      a[href="https://aka.ms/AMD_EPYC_RelationalDB"] img {
+        width: 160px !important;
+        height: auto !important;
+      }
+    </style>
     <p><strong>Day of Data Detroit 2026</strong> is a free, community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
     <p><strong>Conference admission is completely free.</strong> Eventbrite offers a free admission ticket. A separate optional <strong>$15 lunch ticket</strong> is available for attendees who would like the event-provided lunch. No attendee is required to purchase lunch in order to attend. <strong><a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781" target="_blank" rel="noopener noreferrer">Register free on Eventbrite</a>.</strong></p>
     <p><strong>Event hours:</strong> Saturday, September 12, 2026, 10:30 AM-4:30 PM EDT. The event will be held in the lower level of the Ann Arbor District Library Downtown location.</p>
@@ -87,11 +93,11 @@ sponsors:
   - link: https://neo4j.com/
     type: Community
     image: https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg
-    width: 240
+    width: 190
   - link: https://cfsem.org/
     type: Community Sponsor
     image: https://cfsem.org/wp-content/uploads/2019/02/CFSEM_Logo_Stacked.png
-    width: 260
+    width: 210
     alt: Community Foundation for Southeast Michigan
 
 sponsorplan: |
