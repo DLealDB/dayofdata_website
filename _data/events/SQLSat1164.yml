@@ -88,10 +88,16 @@ sponsors:
     type: Community
     image: https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg
     width: 400
+  - link: https://cfsem.org/
+    type: Community Sponsor
+    image: https://cfsem.org/wp-content/uploads/2019/02/CFSEM_Logo_Stacked.png
+    width: 483
+    height: 241
+    alt: Community Foundation for Southeast Michigan
 
 sponsorplan: |
   <h1><a name="sponsorship">Sponsorship Plan</a></h1>
-  <p><strong>Confirmed Community Sponsor: Neo4j - $250.</strong></p>
+  <p><strong>Confirmed Community Sponsors: Neo4j - $250; Community Foundation for Southeast Michigan - $250.</strong></p>
   <p>Sponsors help support free technical education, speaker support, attendee food and beverages, event materials, and community engagement for Day of Data Detroit 2026.</p>
   <p>Conference admission is completely free. A separate optional $15 lunch ticket is available for attendees who want the event-provided lunch.</p>
   <p>Organizations working with SQL Server, Azure SQL, Microsoft Fabric, Power BI, Azure Data &amp; AI, Databricks, streaming, data engineering, analytics, AI, cloud, governance, security, developer tools, recruiting, and related technologies are especially encouraged to participate.</p>
