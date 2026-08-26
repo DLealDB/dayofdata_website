@@ -2,14 +2,20 @@ name: "Day of Data Detroit 2026"
 primarytag: "Detroit"
 logo: 
 logocredit: 
-date: 2026-09-12 10:00:00 -0400
+date: 2026-09-12 10:30:00 -0400
 virtual: false
 physical: true
 hybrid: false
 description: |
+    <style>
+      a[href="https://aka.ms/AMD_EPYC_RelationalDB"] img {
+        width: 160px !important;
+        height: auto !important;
+      }
+    </style>
     <p><strong>Day of Data Detroit 2026</strong> is a free, community-driven, in-person technical event for data professionals, developers, architects, analysts, AI practitioners, students, technology leaders, and community members across Detroit, Southeast Michigan, and the surrounding region.</p>
     <p><strong>Conference admission is completely free.</strong> Eventbrite offers a free admission ticket. A separate optional <strong>$15 lunch ticket</strong> is available for attendees who would like the event-provided lunch. No attendee is required to purchase lunch in order to attend. <strong><a href="https://www.eventbrite.com/e/day-of-data-detroit-2026-tickets-1998135403781" target="_blank" rel="noopener noreferrer">Register free on Eventbrite</a>.</strong></p>
-    <p><strong>Event hours:</strong> Saturday, September 12, 2026, 10:00 AM-4:30 PM EDT. The event will be held in the lower level of the Ann Arbor District Library Downtown location.</p>
+    <p><strong>Event hours:</strong> Saturday, September 12, 2026, 10:30 AM-4:30 PM EDT. The event will be held in the lower level of the Ann Arbor District Library Downtown location.</p>
     <h3>Why Attend?</h3>
     <ul>
       <li>Learn practical techniques, patterns, and lessons from experienced community speakers and industry practitioners.</li>
@@ -50,7 +56,7 @@ scheduletimezone: Eastern Daylight Time UTC -4
 
 eventcountdown: true
 countdownscript: |
-    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 10:00">Countdown</a>
+    <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-09-12 10:30">Countdown</a>
 
 speakertext: We are accepting 45-60 minute session proposals through September 12, 2026 from local and regional data professionals, Microsoft MVPs, MCTs, community speakers, and industry practitioners. Topics across SQL Server, Azure SQL, Microsoft Fabric, Power BI, Real-Time Intelligence, Azure Data & AI, Databricks, data engineering, streaming, analytics, architecture, governance, AI, and professional development are welcome. The audience will include students and early-career professionals as well as experienced industry practitioners.
 speakerlisturl: 
@@ -87,12 +93,11 @@ sponsors:
   - link: https://neo4j.com/
     type: Community
     image: https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg
-    width: 400
+    width: 190
   - link: https://cfsem.org/
     type: Community Sponsor
     image: https://cfsem.org/wp-content/uploads/2019/02/CFSEM_Logo_Stacked.png
-    width: 483
-    height: 241
+    width: 210
     alt: Community Foundation for Southeast Michigan
 
 sponsorplan: |
@@ -109,14 +114,13 @@ sponsorplan: |
     table.detroit-sponsor th:first-child, table.detroit-sponsor td:first-child { text-align: left; }
   </style>
   <table class="detroit-sponsor">
-    <thead><tr><th>Benefit</th><th>Community Supporter<br/>$100</th><th>Community Sponsor<br/>$250</th><th>Supporting<br/>$500</th><th>Premier<br/>$1,000</th></tr></thead>
+    <thead><tr><th>Benefit</th><th>Community Supporter<br/>$100</th><th>Community Sponsor<br/>$250</th><th>Supporting<br/>$500</th></tr></thead>
     <tbody>
-      <tr><td>Company name/logo on event page</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>Official sponsor recognition during the event</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>Provide branded giveaways, raffle items, or recruiting materials</td><td>-</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>Recognition in selected event communications and social media</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>More prominent logo and sponsor recognition</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr>
-      <tr><td>Premier placement and opening/closing recognition</td><td>-</td><td>-</td><td>-</td><td>Yes</td></tr>
+      <tr><td>Company name/logo on event page</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>Official sponsor recognition during the event</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>Provide branded giveaways, raffle items, or recruiting materials</td><td>-</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>Recognition in selected event communications and social media</td><td>-</td><td>-</td><td>Yes</td></tr>
+      <tr><td>More prominent logo and sponsor recognition</td><td>-</td><td>-</td><td>Yes</td></tr>
     </tbody>
   </table>
   <h2>In-Kind Sponsorship</h2>
