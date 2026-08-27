@@ -99,6 +99,12 @@ sponsors:
     image: https://cfsem.org/wp-content/uploads/2019/02/CFSEM_Logo_Stacked.png
     width: 210
     alt: Community Foundation for Southeast Michigan
+  - link: https://www.jetbrains.com/
+    type: Community Partner
+    image: https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg
+    width: 180
+    alt: JetBrains
+    textdesc: "Product subscriptions provided by JetBrains for attendee giveaways. JetBrains and the JetBrains logo are trademarks of JetBrains s.r.o."
 
 sponsorplan: |
   <h1><a name="sponsorship">Sponsorship Plan</a></h1>
