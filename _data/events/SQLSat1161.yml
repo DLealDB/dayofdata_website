@@ -76,6 +76,10 @@ social:
 sponsorscontacturl: https://dayofdata.org/2026-10-17-dayofdata1161/#sponsorship
 optInGlobalSponsor: 1
 sponsors:
+  - link: https://devitjobs.com/
+    type: Community Partner
+    image: /assets/img/logos/devitus-rectangle-white.png
+    width: 180
     
 sponsorplan:
     <h1><a name="sponsorship">Sponsorship Plan</a></h1>
