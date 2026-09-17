@@ -2,7 +2,7 @@ name: "Seattle Day of Data 2026"
 primarytag: "Seattle"
 logo: 
 logocredit: 
-date: 2026-11-12 09:00:00 -0500
+date: 2026-11-13 09:00:00 -0500
 virtual: false
 physical: true
 hybrid: false
@@ -10,13 +10,13 @@ description: |
   <p>Welcome to Seattle Day of Data 2026! This is a free event for the tech community covering a variety of data topics, including SQL Server, PostgreSQL, Fabric, Databricks, and more.</p>
   
 eventlocation: |
-    Hyatt Regency Seattle<br>
-    808 Howell St<br>
+    Seattle Public Library, Auditorium<br>
+    1000 4th Ave <br>
     Seattle, WA 98101<br>
 
 parkingdesc: 
 
-eventlocationurl: https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears
+eventlocationurl: https://share.google/CxJFcXbaQNyGCoCRm
 
 officialwebsite: 
 registrationurl: 
