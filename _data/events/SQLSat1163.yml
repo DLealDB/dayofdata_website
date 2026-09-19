@@ -8,6 +8,7 @@ physical: true
 hybrid: false
 description: | 
     <p>SQL Saturday Pittsburgh 2026 is a full day of free training and cutting-edge educational material for the professionals in the Microsoft Data Platform space. We will bring to you World-grade technical speakers to deliver demos loaded presentations.</p>
+    <p>The conference covers the latest data technologies, including SQL Server, Azure SQL, Microsoft Fabric, AI agents, data engineering, administration, analytics, and much more!</p>
     <p>This is a great way to meet people from the same field of expertise and network around.</p>
 
 eventlocation: |
@@ -19,11 +20,11 @@ eventlocation: |
 eventlocationurl: https://maps.app.goo.gl/YtqehXRueUvsm4ey5
 
 officialwebsite: 
-registrationurl: 
+registrationurl: https://www.eventbrite.com/e/pittsburgh-sql-saturday-2026-tickets-2001664513443
 capacity: 250
 googlemapurl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6076.06205714476!2d-79.9146742!3d40.40816340000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834ef1d598babc3%3A0x3ba7a38573465d67!2sCommonwealth%20Charter%20Academy!5e0!3m2!1sen!2sus!4v1760541585764!5m2!1sen!2sus"
 
-scheduleurl: 
+scheduleurl: https://sessionize.com/api/v2/ih8q9vsc/view/GridSmart
 scheduletimezone: Eastern Daylight Savings time UTC -5
 
 eventcountdown: true
@@ -71,6 +72,11 @@ social:
 sponsorscontacturl: 
 optInGlobalSponsor: 1
 sponsors:
+  - link: https://www.sqlgene.com/
+    type: Silver
+    image: /assets/img/logos/SQLGeneLogo-6.png
+    width: 184
+    height: 120
   
 
 sponsorplan:
