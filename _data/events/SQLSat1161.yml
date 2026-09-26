@@ -39,7 +39,56 @@ officialwebsite: https://dayofdata.org/orlando
 registrationurl: https://DayOfDataOrlando2026.eventbrite.com
 capacity: 400
 googlemapurl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3498.148357166833!2d-81.30675408491489!3d28.744987182373595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e76d6db16e6dbf%3A0xbeced6c92cb1cf98!2sSeminole%20State%20College%20Student%20Center!5e0!3m2!1sen!2sus!4v1654876110093!5m2!1sen!2sus
-precons: false
+precons: true
+precondetail: |
+    <p>Pre-Cons will be held on Friday October 16th.</p>
+    <a href="https://www.eventbrite.com/e/pre-con-day-of-data-sql-ai-app-in-a-day-microsoft-corporation-tickets-2001418052271?aff=oddtdtcreator"><h1>SQL AI App in a Day - Microsoft - Day of Data - Orlando, 2026</h1></a>
+    <a href="https://www.eventbrite.com/e/pre-con-day-of-data-sql-ai-app-in-a-day-microsoft-corporation-tickets-2001418052271?aff=oddtdtcreator"><h3>Click Here To Register</h3></a>
+    <h3>Session Details:</h3>
+    <p><b>Join us in person for a hands-on day building SQL AI apps with Microsoft’s experts!</b></p>
+    <p>Get ready for an exciting in-person session: SQL AI App in a Day, hosted by Microsoft Corporation & SQL Orlando Community Group. Dive deep into SQL and AI, and build your skills from the ground up with hands-on experience. Perfect for data enthusiasts wanting to level up fast. Don’t miss out on this awesome opportunity to learn, connect, and create!</p>
+    <p><b>Build AI‑Powered Applications Using the SQL Language You Know and Trust</b></p>
+    <p>AI‑powered applications start with trusted data — and SQL remains the most trusted way to work with it.</p>
+    <p>SQL AI App in a Day is a hands‑on workshop for SQL developers, data professionals, and DBAs who want to build AI‑powered applications using T‑SQL and the SQL Server engine. You’ll extend the skills you already have to enable intelligent retrieval and grounded generative AI — without moving your data or compromising security.
+    <p>In this workshop, you’ll use T‑SQL as the control plane for AI, keeping data private, governed, and protected inside your SQL environment.</p>
+    <p>Microsoft invites you to join this one‑day workshop and learn how to bring AI to your applications using the language, security model, and controls you already trust.</p>
+    <p><b>Why SQL for AI?</b></p>
+    <p>For decades, SQL has been the most trusted way to work with business‑critical data. This workshop shows how that trust carries forward into the AI era:</p>
+    <p>
+    <ul>
+    <li>Use T‑SQL patterns you already know to prepare, retrieve, and ground data for AI experiences
+    </li><li>Keep sensitive data inside your SQL environment, minimizing data movement and exposure
+    </li><li>Apply familiar SQL security concepts — roles, permissions, auditing, and isolation — to AI‑enabled applications
+    </li><li>Build AI solutions that are private by design, governed, and enterprise‑ready</li></ul></p>
+    <p>AI doesn’t require abandoning SQL — it builds on it.</p>
+    <p><b>What you’ll learn</b></p>
+    <p>In this workshop, you’ll learn how to:</p>
+    <p><ul>
+    <li>Use T‑SQL to enable AI‑ready retrieval, moving beyond keyword search to semantic and intent‑aware queries
+    </li><li>Store and query vector and embedding data alongside relational data in SQL
+    </li><li>Implement Retrieval‑Augmented Generation (RAG) using SQL as the trusted data source
+    </li><li>Use SQL Server as a secure control layer for invoking AI models — on your terms
+    </li><li>Apply SQL security, access controls, and governance to AI workflows
+    </li><li>Ground AI responses in authoritative SQL data to improve accuracy, transparency, and trust</li></ul></p>
+    <p>Security and trust, built in</p>
+    <p>A key focus of this workshop is showing how AI can be used responsibly and securely:</p>
+    
+    <p><ul>
+    <li>Data remains in your SQL environment — you decide what is exposed, when, and how
+    </li><li>SQL permissions and role‑based access continue to govern who can access AI‑enabled data
+    </li><li>External AI services are invoked in a controlled, auditable way
+    </li><li>AI outputs are grounded in authoritative SQL data — not hallucinations</li></ul></p>
+    <p>You’ll leave understanding how to design AI solutions that meet enterprise security, privacy, and compliance expectations.</p>
+    <p>Who should attend?</p>
+    <p>This workshop is ideal for:</p>
+    <p><ul>
+    <li>SQL developers and database professionals
+    </li><li>Database administrators (DBAs) responsible for securing, governing, and operating SQL environments
+    </li><li>Application developers building on SQL Server or Azure SQL
+    </li><li>Architects looking to introduce AI without compromising security or governance</li></ul></p>
+    <p>Teams who want to use AI with languages and tools they already trust</p>
+    <p>Reserve your spot and learn how to build modern, AI‑powered applications using T‑SQL and the SQL Server engine — enabling intelligent retrieval, RAG‑based experiences, and secure AI integration without sacrificing control or trust.</p>
+
 scheduleurl: https://sessionize.com/api/v2/0lk9zs7i/view/GridSmart
 scheduletimezone: Eastern Daylight Savings time UTC -5
 
